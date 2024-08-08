@@ -1,0 +1,34 @@
+ input  file name : crest_rotamers_1.xyz
+ output file name : crest_rotamers_2.xyz
+ number of atoms                :   9
+ number of points on xyz files  :   23
+ RMSD threshold                 :   0.1250
+ Bconst threshold               :   0.0100
+ population threshold           :   0.0500
+ conformer energy window  /kcal :   4.0000
+ # fragment in coord            :     1
+ # bonds in reference structure :     8
+ number of reliable points      :    23
+ reference state Etot :  -2.07193588000000     
+ number of doubles removed by rot/RMSD         :          12
+ total number unique points considered further :          11
+       Erel/kcal        Etot weight/tot  conformer     set   degen     origin
+       1   0.000    -2.07194    0.19821    0.39530       1       2     
+       2   0.003    -2.07193    0.19709                                
+       3   0.136    -2.07172    0.15763    0.31227       2       2     
+       4   0.147    -2.07170    0.15464                                
+       5   0.351    -2.07138    0.10957    0.21692       3       2     
+       6   0.364    -2.07136    0.10735                                
+       7   1.369    -2.06975    0.01971    0.01971       4       1     
+       8   1.459    -2.06961    0.01692    0.01692       5       1     
+       9   1.562    -2.06945    0.01422    0.01422       6       1     
+      10   1.597    -2.06939    0.01342    0.01342       7       1     
+      11   1.702    -2.06922    0.01123    0.01123       8       1     
+T /K                                  :   298.15
+E lowest                              :    -2.07194
+ensemble average energy (kcal)        :    0.237
+ensemble entropy (J/mol K, cal/mol K) :   16.777    4.010
+ensemble free energy (kcal/mol)       :   -1.196
+population of lowest in %             :   39.530
+ number of unique conformers for further calc            8
+ list of relative energies saved as "crest.energies"

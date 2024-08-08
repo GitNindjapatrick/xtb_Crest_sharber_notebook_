@@ -1,0 +1,19 @@
+$constrain
+   force constant=0.0200          
+   distance: 1, 2,  1.50988
+   distance: 1, 8,  1.08797
+   distance: 1, 9,  1.09014
+   distance: 1, 10,  1.08761
+   distance: 2, 3,  1.48098
+   distance: 2, 4,  1.44837
+   distance: 2, 11,  1.08658
+   distance: 3, 4,  1.44348
+   distance: 3, 12,  1.08133
+   distance: 3, 13,  1.08585
+   distance: 4, 5,  1.44210
+   distance: 5, 6,  1.50252
+   distance: 5, 14,  1.09892
+   distance: 5, 15,  1.10196
+   distance: 6, 7,  1.20167
+   distance: 6, 16,  1.10598
+$end
