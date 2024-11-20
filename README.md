@@ -2,10 +2,12 @@ Notre premier ensemble d'objectifs de référence se compose de six tâches indi
 
 Ce projet vise à calculer le PCE (Pouvoir de Conversion de Puissance) des cellules photovoltaïques organiques (OPV) en utilisant différentes méthodes de calcul combinées.
 
-*  Notre objectif de recherche consiste à concevoir des petites molécules dotées de propriétés électroniques spécifiques, notamment des molécules capables d'effectuer la séparation des charges, inspirées de la conception photovoltaïque organique (OPV). Nous avons deux tâches individuelles :
+## Notre objectif de recherche consiste à concevoir des petites molécules dotées de propriétés électroniques spécifiques, notamment des molécules capables d'effectuer la séparation des charges, inspirées de la conception photovoltaïque organique (OPV). Nous avons deux tâches individuelles :
 
 - Concevoir une petite molécule donneuse organique compatible avec le [phényl-C61-butyrate de méthyle] (PCBM) comme accepteur
 - Concevoir une molécule accepteur organique compatible avec le [poly[N-9-heptadecanyl-2,7-carbazole-alt-5,5-(4,7-di-2- thienyl-2,1,3-benzote.
+
+  
 Le code accepte une structure proposée sous forme de chaîne SMILES, génère des coordonnées cartésiennes initiales avec rdkit et effectue une recherche de conformateur et une optimisation de la géométrie avec crest et xtb, respectivement. Enfin, un calcul en un seul point au niveau théorique GFN2-xTB fournit les propriétés d'intérêt, notamment les énergies HOMO et LUMO, le gap HOMO-LUMO et le moment dipolaire moléculaire. L'efficacité de conversion de puissance (PCE) est calculée à partir de ces propriétés simulées sur la base du modèle Scharber.
 Calcul du PCE des OPV
 
@@ -29,11 +31,8 @@ Calcul du PCE des OPV
 L'objectif principal de ce projet est de développer une méthodologie complète pour évaluer le potentiel des matériaux OPV en termes de PCE et de facilité de synthèse. Les résultats obtenus pourront aider à identifier les composés les plus prometteurs pour le développement de cellules photovoltaïques organiques performantes.
 ---
 
-## Visualisation du Workflow
+![Workflow pour l'identification des matériaux OPV](worflow_prof.png)
 
-Un schéma clair pour représenter le processus :
-- **Proposition moléculaire (SMILES)** → RDKit → Crest → XTB → Scharber → **Analyse des résultats**
-- Calcul DFT et évaluation de la synthèse sont effectués en parallèle.
 
 ## Outils utilisés
 - [RDKit](https://www.rdkit.org/) : Génération de géométries 3D.
@@ -43,6 +42,3 @@ Un schéma clair pour représenter le processus :
   
 - [PySCF](https://pyscf.org/) : Calculs de structure électronique.
 ## Visualisation du Workflow
-
-![Workflow pour l'identification des matériaux OPV](worflow_prof.png)
-
