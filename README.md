@@ -4,9 +4,8 @@ Ce projet vise à calculer le PCE (Pouvoir de Conversion de Puissance) des cellu
 
 *  Notre objectif de recherche consiste à concevoir des petites molécules dotées de propriétés électroniques spécifiques, notamment des molécules capables d'effectuer la séparation des charges, inspirées de la conception photovoltaïque organique (OPV). Nous avons deux tâches individuelles :
 
-- Recherche d'une molécule donneuse organique à utiliser avec l'ester méthylique de l'acide l'ester méthylique de
-    l'acide [6,6]­phényl­C61­butyrique(PCBM).
-- Recherche d'une molécule accepteuse à utiliser dans des dispositifs basés sur le $ poly[N­90­heptadécanyl­2,7­carbazole­alt­5,5­(40,70­di­2­thiényl­20,10,30­benzothiaMachine  (PCDTBT)).
+- Concevoir une petite molécule donneuse organique compatible avec le [phényl-C61-butyrate de méthyle] (PCBM) comme accepteur
+- Concevoir une molécule accepteur organique compatible avec le [poly[N-9-heptadecanyl-2,7-carbazole-alt-5,5-(4,7-di-2- thienyl-2,1,3-benzote.
 Le code accepte une structure proposée sous forme de chaîne SMILES, génère des coordonnées cartésiennes initiales avec rdkit et effectue une recherche de conformateur et une optimisation de la géométrie avec crest et xtb, respectivement. Enfin, un calcul en un seul point au niveau théorique GFN2-xTB fournit les propriétés d'intérêt, notamment les énergies HOMO et LUMO, le gap HOMO-LUMO et le moment dipolaire moléculaire. L'efficacité de conversion de puissance (PCE) est calculée à partir de ces propriétés simulées sur la base du modèle Scharber.
 Calcul du PCE des OPV
 
