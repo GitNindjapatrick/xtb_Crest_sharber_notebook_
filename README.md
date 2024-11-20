@@ -10,22 +10,7 @@ Le code accepte une structure proposée sous forme de chaîne SMILES, génère d
 Calcul du PCE des OPV
 
 
-Méthodes utilisées
-Calcul des niveaux HOMO, LUMO et du gap via RDKit, Crest et XTB :
-Utilisation de RDKit pour la manipulation moléculaire
-Optimisation de la géométrie avec Crest
-Calcul des niveaux HOMO, LUMO et du gap avec XTB
-Modèle de Scharber:
-Mise en œuvre du modèle de Scharber pour estimer le PCE à partir des niveaux HOMO, LUMO et du gap
-Calculs DFT, HF et MDA avec RDKit, Crest, XTB et PySCF :
-Utilisation de RDKit, Crest et XTB pour la préparation des molécules
-Calculs DFT, HF et MDA avec PySCF
-Analyse et comparaison des résultats
-Intégration avec l'algorithme de synthèse SAScores :
-Utilisation de l'algorithme SAScores pour estimer la facilité de synthèse des composés
-Combinaison des résultats de PCE et de synthèse pour une évaluation complète des molécules
-Objectifs
-L'objectif principal de ce projet est de développer une méthodologie complète pour évaluer le potentiel des matériaux OPV en termes de PCE et de facilité de synthèse. Les résultats obtenus pourront aider à identifier les composés les plus prometteurs pour le développement de cellules photovoltaïques organiques performantes.
+
 # Workflow : Identification de matériaux prometteurs pour OPV
 
 ## Étapes principales
@@ -41,6 +26,7 @@ L'objectif principal de ce projet est de développer une méthodologie complète
 9. **Analyse des résultats** : Comparaison des performances des matériaux.
 10. **Identification des matériaux prometteurs** : Sélection des structures offrant les meilleures propriétés.
 
+L'objectif principal de ce projet est de développer une méthodologie complète pour évaluer le potentiel des matériaux OPV en termes de PCE et de facilité de synthèse. Les résultats obtenus pourront aider à identifier les composés les plus prometteurs pour le développement de cellules photovoltaïques organiques performantes.
 ---
 
 ## Visualisation du Workflow
@@ -53,7 +39,10 @@ Un schéma clair pour représenter le processus :
 - [RDKit](https://www.rdkit.org/) : Génération de géométries 3D.
 - [Crest](https://www.crest-repo.de/) : Recherche de conformateurs.
 - [XTB](https://xtb-docs.readthedocs.io/) : Calculs rapides de chimie quantique.
-- [PySCF](https://pyscf.org/) : Calculs de structure électronique.
 
-Utilisation
-Le code Python et les notebooks Jupyter associés permettent de réaliser les différentes étapes de calcul et d'analyse décrites ci-dessus. Les instructions d'installation et d'utilisation seront fournies dans le README du projet
+  
+- [PySCF](https://pyscf.org/) : Calculs de structure électronique.
+## Visualisation du Workflow
+
+![Workflow pour l'identification des matériaux OPV](worflow_prof.png)
+
