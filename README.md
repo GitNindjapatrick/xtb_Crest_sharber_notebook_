@@ -27,6 +27,34 @@ Utilisation de l'algorithme SAScores pour estimer la facilité de synthèse des 
 Combinaison des résultats de PCE et de synthèse pour une évaluation complète des molécules
 Objectifs
 L'objectif principal de ce projet est de développer une méthodologie complète pour évaluer le potentiel des matériaux OPV en termes de PCE et de facilité de synthèse. Les résultats obtenus pourront aider à identifier les composés les plus prometteurs pour le développement de cellules photovoltaïques organiques performantes.
+# Workflow : Identification de matériaux prometteurs pour OPV
+
+## Étapes principales
+
+1. **Proposition de structure moléculaire** : La chaîne SMILES de la molécule cible est utilisée comme point de départ.
+2. **Génération des coordonnées cartésiennes** : Utilisation de RDKit pour convertir la chaîne SMILES en coordonnées 3D.
+3. **Recherche de conformateurs** : Exploration de la conformation avec Crest pour trouver des conformateurs optimaux.
+4. **Optimisation géométrique** : Utilisation de XTB pour obtenir une géométrie optimisée.
+5. **Calcul des propriétés électroniques** : Calcul des niveaux HOMO, LUMO, et gap énergétique à l'aide de XTB.
+6. **Estimation du PCE** : Prédiction de l'efficacité de conversion d'énergie (PCE) avec le modèle de Scharber.
+7. **Calculs avancés** : Approche DFT, HF, ou MDA pour des prédictions plus précises avec PySCF.
+8. **Évaluation de la faisabilité synthétique** : Estimation de la difficulté de synthèse avec le SAScore.
+9. **Analyse des résultats** : Comparaison des performances des matériaux.
+10. **Identification des matériaux prometteurs** : Sélection des structures offrant les meilleures propriétés.
+
+---
+
+## Visualisation du Workflow
+
+Un schéma clair pour représenter le processus :
+- **Proposition moléculaire (SMILES)** → RDKit → Crest → XTB → Scharber → **Analyse des résultats**
+- Calcul DFT et évaluation de la synthèse sont effectués en parallèle.
+
+## Outils utilisés
+- [RDKit](https://www.rdkit.org/) : Génération de géométries 3D.
+- [Crest](https://www.crest-repo.de/) : Recherche de conformateurs.
+- [XTB](https://xtb-docs.readthedocs.io/) : Calculs rapides de chimie quantique.
+- [PySCF](https://pyscf.org/) : Calculs de structure électronique.
 
 Utilisation
 Le code Python et les notebooks Jupyter associés permettent de réaliser les différentes étapes de calcul et d'analyse décrites ci-dessus. Les instructions d'installation et d'utilisation seront fournies dans le README du projet
