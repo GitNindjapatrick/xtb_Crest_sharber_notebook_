@@ -1,0 +1,8 @@
+SMILES: c1ncc(s1)-c1ncc(-c2sc(-c3ccccc3)c3[se]ccc23)c2nsnc12
+LUMO: -8.8651
+HOMO: -9.876
+HOMO-LUMO GAP: 1.01082679529
+SMILES: c1ncc(s1)-c1ncc(-c2sc(-c3ccccc3)c3[se]ccc23)c2nsnc12
+LUMO: -8.8654
+HOMO: -9.8765
+HOMO-LUMO GAP: 1.011059361254

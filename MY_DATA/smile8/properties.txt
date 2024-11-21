@@ -1,0 +1,8 @@
+SMILES: [nH]1cccc1-c1ccc2c(c1)c1cocc1c1c3c4c[nH]cc4ccc3c3cocc3c21
+LUMO: -8.757
+HOMO: -8.8155
+HOMO-LUMO GAP: 0.058459601136
+SMILES: [nH]1cccc1-c1ccc2c(c1)c1cocc1c1c3c4c[nH]cc4ccc3c3cocc3c21
+LUMO: -8.7572
+HOMO: -8.8157
+HOMO-LUMO GAP: 0.058511065818
