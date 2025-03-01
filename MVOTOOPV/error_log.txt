@@ -1,0 +1,165 @@
+SMILES: gdb 28830, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 50811, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 125389, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 28830, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_xyz.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 2, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 28830, GFN: 1, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_xyz.xyz', '--opt', 'vtight', '--gfn', '1', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 1, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 28830, GFN: 0, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_xyz.xyz', '--opt', 'vtight', '--gfn', '0', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 0, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_xyz.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 2, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 1, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_xyz.xyz', '--opt', 'vtight', '--gfn', '1', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 1, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 0, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_xyz.xyz', '--opt', 'vtight', '--gfn', '0', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 0, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_xyz.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 2, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 1, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_xyz.xyz', '--opt', 'vtight', '--gfn', '1', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 1, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 0, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_xyz.xyz', '--opt', 'vtight', '--gfn', '0', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 0, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 28830, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_xyz.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 2, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 28830, GFN: 1, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_xyz.xyz', '--opt', 'vtight', '--gfn', '1', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 1, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 28830, GFN: 0, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_xyz.xyz', '--opt', 'vtight', '--gfn', '0', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 0, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_xyz.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 2, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 1, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_xyz.xyz', '--opt', 'vtight', '--gfn', '1', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 1, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 0, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_xyz.xyz', '--opt', 'vtight', '--gfn', '0', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 0, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_xyz.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 2, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 1, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_xyz.xyz', '--opt', 'vtight', '--gfn', '1', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 1, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 0, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_xyz.xyz', '--opt', 'vtight', '--gfn', '0', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 0, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 28830, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 50811, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 125389, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 28830, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_xyz.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 2, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 28830, GFN: 1, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_xyz.xyz', '--opt', 'vtight', '--gfn', '1', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 1, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 28830, GFN: 0, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_xyz.xyz', '--opt', 'vtight', '--gfn', '0', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 0, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_xyz.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 2, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 1, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_xyz.xyz', '--opt', 'vtight', '--gfn', '1', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 1, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 0, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_xyz.xyz', '--opt', 'vtight', '--gfn', '0', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 0, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_xyz.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 2, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 1, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_xyz.xyz', '--opt', 'vtight', '--gfn', '1', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 1, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 0, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_xyz.xyz', '--opt', 'vtight', '--gfn', '0', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 0, Stage: preoptimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 28830, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_crest1_opt.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 2, Stage: optimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_crest1_opt.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 2, Stage: optimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_crest1_opt.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 2, Stage: optimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 28830, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 28830_crest1_opt.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 28830, GFN: 2, Stage: optimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 50811, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 50811_crest1_opt.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 50811, GFN: 2, Stage: optimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 125389, GFN: 2, Stage: xtb, Error: Command '['xtb', '/home/mvotokps/Downloads/ALL MY WORK PROGRAMMATION/PAPER WORK/MY_crest1_GDB9/gdb 125389_crest1_opt.xyz', '--opt', 'vtight', '--gfn', '2', '--alpb', 'toluene', '--chrg', '0']' returned non-zero exit status 128.
+SMILES: gdb 125389, GFN: 2, Stage: optimization, Error: Topological changes detected or xTB failed
+SMILES: gdb 4807, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 326, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 723, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 1587, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 1589, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 2115, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 2124, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 2125, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 4019, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 4807, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 326, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 326, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 326, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 723, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 326, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 723, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 1587, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 1589, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 2115, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 2124, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 2125, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 4019, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 4605, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 4608, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 4611, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 4613, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 4618, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 4807, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 5034, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 6059, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 6273, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 6683, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 7902, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 8721, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 8723, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 8779, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 8786, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 8792, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 8793, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 8794, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 8795, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 8796, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 9986, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 10016, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 10785, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 12585, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 12617, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 12653, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 12654, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 13588, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 16607, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 20482, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21134, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21364, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21398, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21644, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21645, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21703, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21706, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21741, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21769, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21770, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21783, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 21891, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22001, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22029, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22054, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22209, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22213, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22229, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22230, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22438, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22441, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22482, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22543, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22652, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22876, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22971, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22973, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 22979, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 23066, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 23140, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 23152, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 23364, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 23509, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 23615, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 23724, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 23840, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 23841, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 24471, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 24525, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 24528, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
+SMILES: gdb 24530, GFN: N/A, Stage: 3D generation, Error: Failed to generate 3D structure
