@@ -1,0 +1,2 @@
+Molecule,Fluorescence_energy_eV,Singlet_Triplet_gap_eV,Oscillator_strength,Total_energy_eV,Electronic_energy_eV,Nuclear_repulsion_energy_eV,DFT_calculation_time,TDDFT_calculation_time,Lifetime,Multi-Obj
+gdb_43243,3.5607707686145633,1.5966846876905543,0.019128371241860453,-10874.720486748036,-22236.661431811943,11361.940945063909,0:00:21.472278,0:00:43.291621,95.02205784975573,-1.938327085063257
