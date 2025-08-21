@@ -1,0 +1,2 @@
+Molecule,Fluorescence_energy_eV,Singlet_Triplet_gap_eV,Oscillator_strength,Total_energy_eV,Electronic_energy_eV,Nuclear_repulsion_energy_eV,Lifetime_ns,Multi_Obj,DFT_calculation_time,TDDFT_calculation_time,Status,MultiObjectiveScore,Application_Domain
+11029,2.8883919949257537,0.2803303138031918,0.0006618159239956,-12625.820685493813,-17734.62560360681,5108.804918113002,4173.8897217144895,-0.5912765029534426,0:00:03.259921,0:00:02.595414,Success,-83.02470841582284,Photocatalysis

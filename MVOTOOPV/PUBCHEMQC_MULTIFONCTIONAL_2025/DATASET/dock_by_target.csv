@@ -1,0 +1,22 @@
+Target,Ligand,Affinity,Status
+HIV1protease,1712.pdbqt,-3.7,OK
+HIV1protease,977.pdbqt,-0.7,OK
+HIV1protease,17851.pdbqt,-2.8,OK
+HIV1protease,7801.pdbqt,,Affinity not found
+HIV1protease,4550.pdbqt,-3.3,OK
+HIV1protease,20778.pdbqt,-2.7,OK
+HIV1protease,11029.pdbqt,,Affinity not found
+Hsp90,1712.pdbqt,-5.7,OK
+Hsp90,977.pdbqt,-0.9,OK
+Hsp90,17851.pdbqt,-4.3,OK
+Hsp90,7801.pdbqt,,Affinity not found
+Hsp90,4550.pdbqt,-5.3,OK
+Hsp90,20778.pdbqt,-4.0,OK
+Hsp90,11029.pdbqt,,Affinity not found
+Proteasome,1712.pdbqt,-0.0,OK
+Proteasome,977.pdbqt,0.0,OK
+Proteasome,17851.pdbqt,-0.0,OK
+Proteasome,7801.pdbqt,,Affinity not found
+Proteasome,4550.pdbqt,-0.0,OK
+Proteasome,20778.pdbqt,-0.0,OK
+Proteasome,11029.pdbqt,,Affinity not found

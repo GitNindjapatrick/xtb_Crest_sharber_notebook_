@@ -1,0 +1,6 @@
+ID,SMILES,Affinity_kcal_mol
+1712,O=C1N=c2c(=C1CNc1ccc(cc1)S(=O)(=O)Nc1ccccn1)c1scnc1cc2,-6.6
+4550,O=NC1=c2cc(N(O)O)c3c(c2=NC1=O)CCCC3,-6.0
+17851,CC[N-]c1nc(N[N+]#N)nc(n1)NC(C)C,-5.3
+20778,N#[N+]Nc1nc([N-]C(C)C)nc(n1)SC,-5.3
+977,O=O,-2.4

@@ -1,0 +1,126 @@
+MODEL 1
+REMARK minimizedAffinity 0
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -2.752 -40.196 -46.148  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1      -1.594 -40.568 -46.554  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK minimizedAffinity 0
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -28.126 -32.049 -86.613  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -28.961 -32.978 -86.324  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK minimizedAffinity 0
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -4.106 -38.136 -48.948  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1      -5.114 -38.122 -49.740  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK minimizedAffinity 0
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -30.133 -32.828 -86.838  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -30.967 -33.757 -86.549  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK minimizedAffinity 0
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -30.946 -31.931 -87.516  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -31.124 -30.678 -87.309  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK minimizedAffinity 0
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -31.802 -32.701 -79.643  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -32.093 -31.565 -80.163  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK minimizedAffinity 0
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -31.341 -32.025 -78.233  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -32.299 -31.284 -77.814  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK minimizedAffinity 0
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -30.674 -30.456  17.963  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -30.596 -31.005  16.807  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK minimizedAffinity 0
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1     -18.662  -5.189 -57.785  0.00  0.00    +0.000 OA
+ATOM      2  O   UNL     1     -19.499  -4.694 -56.949  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
